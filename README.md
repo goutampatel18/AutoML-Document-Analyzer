@@ -1,11 +1,11 @@
-# 🧠 AutoML Document Analyzer
+# AutoML Document Analyzer
 
 A production-ready, end-to-end **AutoML** web application built with **Streamlit** and **scikit-learn**.  
 Upload any CSV or Excel dataset and the system automatically performs EDA, preprocessing, model training, evaluation, and lets you export results — all through a polished, interactive UI.
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Details |
 |---|---|
@@ -19,12 +19,12 @@ Upload any CSV or Excel dataset and the system automatically performs EDA, prepr
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1 — Clone & install
 
 ```bash
-git clone https://github.com/your-username/automl-document-analyzer.git
+git clone https://github.com/goutampatel18/AutoML-Document-Analyzer.git
 cd automl-document-analyzer
 pip install -r requirements.txt
 ```
@@ -39,7 +39,7 @@ Open `http://localhost:8501` in your browser.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 automl_document_analyzer/
@@ -55,7 +55,7 @@ automl_document_analyzer/
 
 ---
 
-## 🔄 Pipeline Overview
+##  Pipeline Overview
 
 ```
 Upload CSV/Excel
@@ -95,7 +95,7 @@ Export
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Library | Purpose |
 |---|---|
@@ -110,7 +110,7 @@ Export
 
 ---
 
-## 🧪 Sample Datasets to Try
+##  Sample Datasets to Try
 
 - **Classification**: [Iris](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv), [Titanic](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 - **Regression**: [Boston Housing](https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv), [California Housing](https://raw.githubusercontent.com/ageron/handson-ml/master/datasets/housing/housing.csv)
